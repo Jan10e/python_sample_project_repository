@@ -251,16 +251,3 @@ which one you have chosen in this section.
 The license for this template repository is the
 [MIT licence](http://choosealicence.com/licenses/mit/).
 
-
-```text
-___                ___  ___          ___   __
-\  \              /  /  \  \        /  /  |  |
- \  \     __     /  /    \  \      /  /   |  |
-  \  \  /    \  /  /      \  \    /  /    |  |
-   \  \/  __  \/  /        \  \  /  /     |  |
-    \    /  \    /          \  \/  /      |  |______
-     \__/    \__/            \____/       |_________|
-.law
-
-                                           2016-2021
-```
